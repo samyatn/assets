@@ -4,6 +4,7 @@
   "type": "ERC20",
   "decimals": 18,
   "description": "ZAQUAZA - Digital energy dragon. Utility token indexed on saved kWh and connected to renewable energy projects.",
+  "website": "https://zaquaza.com",
   "explorer": "https://etherscan.io/token/0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2",
   "status": "active",
   "id": "0x5FfF59eCb6Ea3368F2B0bcb9b4471F59a02383e2",
@@ -13,6 +14,10 @@
   "links": [
     {
       "name": "blog",
+      "url": "https://zaquaza.com"
+    },
+    {
+      "name": "docs",
       "url": "https://zaquaza.com"
     }
   ]
