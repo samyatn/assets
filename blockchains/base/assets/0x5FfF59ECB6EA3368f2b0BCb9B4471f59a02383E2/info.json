@@ -3,19 +3,22 @@
   "symbol": "ZQZ",
   "type": "ERC20",
   "decimals": 18,
-  "description": "ZAQUAZA - Dragon numerique de l'energie. Token utilitaire indexe sur les kWh economises et connecte aux projets d'energies renouvelables.",
+  "description": "ZAQUAZA - Digital energy dragon. Utility token indexed on saved kWh and connected to renewable energy projects.",
   "website": "https://zaquaza.com",
-  "explorer": "https://basescan.org/token/0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2",
+  "explorer": "https://etherscan.io/token/0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2",
   "status": "active",
-  "id": "0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2",
+  "id": "0x5FfF59eCb6Ea3368F2B0bcb9b4471F59a02383e2",
+  "tags": [
+    "defi"
+  ],
   "links": [
     {
       "name": "website",
       "url": "https://zaquaza.com"
     },
     {
-      "name": "explorer",
-      "url": "https://basescan.org/token/0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2"
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/zaquaza"
     }
   ]
 }
