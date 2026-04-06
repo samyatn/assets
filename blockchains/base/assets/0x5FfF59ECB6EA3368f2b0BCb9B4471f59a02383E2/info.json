@@ -1,0 +1,21 @@
+{
+  "name": "ZAQUAZA",
+  "symbol": "ZQZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "ZAQUAZA - Dragon numerique de l'energie. Token utilitaire indexe sur les kWh economises et connecte aux projets d'energies renouvelables.",
+  "website": "https://zaquaza.com",
+  "explorer": "https://basescan.org/token/0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2",
+  "status": "active",
+  "id": "0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://zaquaza.com"
+    },
+    {
+      "name": "explorer",
+      "url": "https://basescan.org/token/0x5FfF59ECB6EA3368f2b0BCb9B4471f59a02383E2"
+    }
+  ]
+}
